@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<category>
+<pattern>What is Amgen</pattern>
+<template>
+Amgen Inc. is an American multinational biopharmaceutical company headquartered in Thousand Oaks, California.
+</template>
+</category>
+<category>
+<pattern>How Repatha works</pattern>
+<template>
+Repatha® helps the liver clear LDL by limiting the actions of PCSK9—and less PCSK9 means less LDL in your blood.
+They also increase the liver’s ability to break down cholesterol that’s already in your blood.
+Taken together, Repatha® with a statin is proven to dramatically lower your LDL.
+</template>
+</category>
+
+<category>
+<pattern>Before you start using Repatha</pattern>
+<template>
+tell your healthcare provider about all your medical conditions, including if you are allergic to rubber or latex, are pregnant or plan 
+to become pregnant, or are breastfeeding or plan to breastfeed. The needle covers on the single-use prefilled syringes and the inside of the
+needle caps on the single-use prefilled SureClick® autoinjectors contain dry natural rubber. 
+The single-use Pushtronex® system (on-body infusor with prefilled cartridge) is not made with natural rubber latex.</template>
+</category>
+
+<category>
+<pattern>Do not use Repatha</pattern>
+<template>
+if you are allergic to evolocumab or to any of the ingredients in Repatha
+</template>
+</category>
+<category>
+<pattern>What are the possible side effects of Repatha</pattern>
+<template>
+Repatha® can cause serious side effects including: Repatha® may cause allergic reactions that can be serious. Call your healthcare provider or go to the nearest hospital emergency room right away if you have any symptoms 
+of an allergic reaction including a severe rash, redness, severe itching, a swollen face, or trouble breathing.
+The most common side effects of Repatha® include: runny nose, sore throat, symptoms of the common cold, flu or flu-like symptoms,
+ back pain, high blood sugar levels (diabetes), and redness, pain, or bruising at the injection site.</template>
+</category>
+
+<category>
+<pattern>How to take Repatha
+</pattern>
+<template>
+Once a month or every two weeks? Learn more about each Repatha® dosing option.</template>
+</category>
+
+
+<category>
+<pattern>Storing and traveling with Repatha
+</pattern>
+<template>
+Store Repatha® in the refrigerator (36°F to 46°F) until you’re ready to use it. Repatha® can also be kept at room temperature (68°F to 77°F) in its original box for up to 30 days. 
+This makes it easier to take your medicine with you when you’re on the go.</template>
+</category>
+
+<category>
+<pattern>nurse support now
+</pattern>
+<template>
+Have questions about taking Repatha®? Call 1-844-REPATHA (1-844-737-2842) 7 days a week, 9AM – 11PM EST, to speak with a nurse or schedule a visit for injection support</template>
+</category>
+
+<category>
+<pattern>Lower your out-of-pocket costs with the Repatha® Copay Card</pattern>
+<template>
+If you have commercial or private insurance, you may be eligible to pay no more than $5 per month* when you sign up for the Repatha® Copay Card. If you already have a copay card, you must renew it every twelve months so you can continue paying the same out-of-pocket costs per month.
+</template>
+</category>
+
+
+
+</aiml>
